@@ -13,10 +13,10 @@ library(stylo)
 
 
 #authentication keys
-api_key <- "ePn6F9vhSnKq2vlkuVNlFNc2i"
-api_secret <- "AVWYs4fFWAJx8vMuMdonrNvOd1ZxkT7v57TVHacA18kkcTUMts"
-token <- "1014906652045271041-Y8SQ4bDWhfezqELH0DsoSkyQ24mtuH"
-token_secret <- "FOP44ZnfpNETA085D23Jdxmd2OyGWYCqcX8kcm9iWCHfY"
+api_key <- "ePn6F9vhS................"
+api_secret <- "AVWYs4fFW....................."
+token <- "101490665204527104.............."
+token_secret <- "FOP44ZnfpNETA08............."
 
 
 #retrieve tweets
